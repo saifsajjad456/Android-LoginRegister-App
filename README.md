@@ -1,4 +1,4 @@
-# Android Login App Enhancement
+# Android Login App 
 
 ## Overview
 This project is an enhanced version of the base Android login app. It demonstrates Android UI design, activity navigation, and basic user authentication using Java and XML in Android Studio.
