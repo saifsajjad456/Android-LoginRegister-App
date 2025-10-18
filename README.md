@@ -29,4 +29,3 @@ This project is an enhanced version of the base Android login app. It demonstrat
 
 ---
 
-## Navigation Flow
